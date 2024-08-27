@@ -1,4 +1,4 @@
 # Attribute-Window
-A website that acts as a tracker for personal goals/"skills". Theme inspired from games and comics.
-Wesbite is hosted on [infnintyFree](https://www.infinityfree.com)
+A website that acts as a tracker for personal goals/"skills".<br/> Theme inspired from games and comics.<br/>
+Wesbite is hosted on [infnintyFree](https://www.infinityfree.com)<br/>
 [Link to the wesbite](https://attributewindow.42web.io/index.html)
