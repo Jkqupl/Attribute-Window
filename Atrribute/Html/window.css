@@ -1,0 +1,97 @@
+.main{
+    background-image: url(bg.jpg);
+    background-color: #23a7fa;
+    display : flex;
+    padding: 5px;
+    height: 100vh;
+    width: 100vw;
+
+}
+.menu{
+
+}
+
+a{
+    text-decoration: none;
+    color: red
+}
+
+
+.title{
+    display: flex;
+    background-color: #23a7fa;
+    color: #eafbfd;
+    width: 100%;
+    height: 20%;
+    margin: 2%;
+    align-content: center;
+    justify-content: center;
+}
+
+.text{
+    background-color:#23a7fa;
+    color:#eafbfd;
+    width: 90%;
+    height:50%;
+    margin:2%;
+    padding: 5px;
+    align-self: baseline;
+    display: flex;
+    flex-direction: column;
+
+}
+.everythingElse{
+    opacity: 0.9;
+    background-color:#23a7fa;
+    padding: 5px;
+    margin: 1%;
+    width: 90%;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    outline: 7px groove white;
+    justify-self:center ;
+    /* flex: 1; */
+}
+.profile{
+    /* background-color: blue; */
+    height: 20%;
+    align-self: center;
+    font-size: 30px; ;
+}
+.name{
+    /* background-color: blueviolet; */
+    font-size: 20px;
+}
+.age{
+    /* background-color: aliceblue; */
+    font-size: 20px
+}
+.stats{
+    background-color:#23a7fa;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* Allow items to wrap onto the next line */
+    gap: 10px; /* Optional: Adds space between items */
+    max-width: 100%; /* Ensure it doesn't exceed the container width */
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    padding:0;
+    margin:0;
+}
+.log{
+    padding: 10%;
+}
+.sign{
+    padding: 10%;
+}
+p{
+    font-size: 40px;
+}
+.s{
+    display: flex;
+}
